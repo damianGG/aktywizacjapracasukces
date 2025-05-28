@@ -23,7 +23,7 @@ export default function Footer2() {
                 <div className="widget">
                   <p className="widget-title fs-15 fw-bold"><i className="uil uil-map me-2 fs-25" ></i> Adres (Biuro projektu)</p>
                   <address>
-                    Plac Niepodległości 1 lok. 3.19,<br className="d-none d-md-block" />25-506 Kielce
+                    ul. Muchoborska 14 lok. 201A, II piętro, budynek biurowy A,<br className="d-none d-md-block" />54-424 Wrocław
                   </address>
                 </div>
               </div>
@@ -41,8 +41,8 @@ export default function Footer2() {
                 <div className="widget">
                   <p className="widget-title fs-15 fw-bold"><i className="uil uil-envelope fs-25 me-2 "></i> e-mail</p>
 
-                  <Link href="mailto:czaskobiet@crse.org.pl" className="link-primary">
-                    czaskobiet@crse.org.pl
+                  <Link href="mailto:aktywizacja@crse.org.pl" className="link-primary">
+                    aktywizacja@crse.org.pl
                   </Link>
                   <br className="d-none d-md-block" />
                 </div>
@@ -55,7 +55,7 @@ export default function Footer2() {
 
 
 
-                  <Link href="https://www.facebook.com/profile.php?id=61566028093204" className="link-primary" target="_blank">Czas Kobiet </Link>
+                  <Link href="https://www.facebook.com/profile.php?id=61575807931828" className="link-primary" target="_blank">Aktywizacja-Praca-Sukces</Link>
 
                 </div>
               </div>

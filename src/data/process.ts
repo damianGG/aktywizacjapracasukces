@@ -17,13 +17,13 @@ export const processList1 = [
   {
     no: "1",
     className: "me-lg-6",
-    title: "sprawujące opiekę nad dzieckiem do lat 7 oraz osobami potrzebującymi wsparcia w codziennym funkcjonowaniu, powracające na rynek po zakończonym okresie sprawowania opieki",
+    title: "zatrudnione na umowach krótkoterminowych, umowach cywilno-prawnych lub wpisujące się w definicję os. ubogich pracujących,",
     subtitle: "",
     shadow: true
   },
   {
     no: "2",
-    title: "mieszkające na obszarze woj. świętokrzyskiego",
+    title: "mieszkające na obszarze woj. dolnośląskiego.",
     className: "me-lg-6 mt-6",
     shadow: true,
     subtitle: ""

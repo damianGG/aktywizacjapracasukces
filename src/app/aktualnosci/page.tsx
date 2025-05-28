@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 import { format } from 'date-fns';
 import { pl } from 'date-fns/locale';
 import './style.css';
-import flagaUe from '@/icons/flaga-ue-tlo.png';
+// import flagaUe from '@/icons/flaga-ue-tlo.png';
 
 const backendLink = process.env.STRAPI_PUBLIC_BACKEND_LINK;
 
@@ -65,7 +65,7 @@ export default async function News() {
                 style={{
                     position: 'relative',
                     backgroundPosition: 'right',
-                    backgroundImage: `url(${flagaUe.src})`,
+                    // backgroundImage: `url(${flagaUe.src})`,
                     backgroundSize: 'cover',
                     backgroundRepeat: 'no-repeat'
                 }}

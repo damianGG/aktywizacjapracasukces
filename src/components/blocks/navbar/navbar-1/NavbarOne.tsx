@@ -11,7 +11,7 @@ import Link from "next/link";
 // LOCAL CUSTOM COMPONENTS
 import HeaderRight from "../components/header-right";
 import FancyHeader from "../components/fancy-header";
-import crselogo from "../../../../../public/img/logos/crselogo.png";
+import crselogo from "../../../../assets/img/crselogo.png";
 import Toplogo from "../top-logo/Toplogo";
 
 // ===================================================================
@@ -74,7 +74,7 @@ export default function NavbarOne({
 
       <div id="offcanvas-nav" data-bs-scroll="true" className="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
         <div className="offcanvas-header d-lg-none">
-          <h3 className="text-white fs-30 mb-0">J&P</h3>
+          <h3 className="text-white fs-30 mb-0">CRSE</h3>
           <button type="button" aria-label="Close" data-bs-dismiss="offcanvas" className="btn-close btn-close-white" />
         </div>
 

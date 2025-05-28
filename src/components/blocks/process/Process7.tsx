@@ -63,7 +63,7 @@ export default async function Process7() {
       <div className="container pt-15 pt-md-17 pb-13 pb-md-15">
         <div className="row mb-5">
           <div className="col-md-12 col-xl-12 col-xxl-12 mx-auto text-center">
-            <h2 className="display-4 mb-4 px-lg-10">KTO MOŻE WZIĄĆ UDZIAŁ W PROJEKCIE? <br></br> Kobiety:</h2>
+            <h2 className="display-4 mb-4 px-lg-10">KTO MOŻE WZIĄĆ UDZIAŁ W PROJEKCIE? <br></br> Osoby:</h2>
           </div>
         </div>
         <div className="col-lg-12 order-lg-2 d-flex">
@@ -71,17 +71,38 @@ export default async function Process7() {
             <ProcessList1 {...item} key={item.no} />
           ))}
 
+        </div>
+        <div className="lead fs-lg pe-lg-5 mt-10">
 
+          <p>W szczególności do udziału w projekcie zapraszamy osoby:</p>
+          <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
+            <li><i className="uil uil-check"></i><strong>zamieszkujące miasta średnie tracące funkcje społeczno-gospodarcze
+              tj.:</strong> Bielawa, Bolesławiec, Dzierżoniów, Głogów, Jawor, Jelenia Góra,
+              Kamienna Góra, Kłodzko, Legnica, Lubań, Nowa Ruda, Świdnica,
+              Świebodzice, Wałbrzych, Ząbkowice Śl., Zgorzelec, Złotoryja <strong> lub obszary
+                zagrożone trwałą marginalizacją na terenie województwa dolnośląskiego
+                tj.:</strong> Bardo, Boguszów-Gorce, Bystrzyca Kłodzka, Duszniki-Zdrój, Góra,
+              Gromadka, Jemielno, Kamieniec Ząbkowicki, Kowary, Lądek-Zdrój, Leśna,
+              Lewin Kłodzki, Międzylesie, Mirsk, Niechlów, Nowa Ruda, Pęcław, Pieńsk,
+              Przemków, Przeworno, Radków, Stoszowice, Stronie Śląskie, Świeradów-
+              Zdrój, Świerzawa, Węgliniec, Wojcieszów, Zawidów, Ziębice, Złoty Stok,</li>
+            <li><i className="uil uil-check"></i><strong>posiadające orzeczenie o stopniu niepełnosprawności,</strong></li>
+            <li><i className="uil uil-check"></i><strong>o niskich kwalifikacjach, tj. z wykształceniem do poziomu ISCED 3(włączenie),</strong></li>
+            <li><i className="uil uil-check"></i><strong>w wieku do 29 lat lub powyżej 55 lat i więcej,</strong></li>
+            <li><i className="uil uil-check"></i><strong>kobiety.</strong></li>
+          </ul>
 
         </div>
-        <div className="col-lg-12">
+        {/* <div className="col-lg-12">
           <p className="lead fs-lg pe-lg-5 mt-10"> Do wzięcia udziału w projekcie zapraszamy wszystkie chętne osoby spełniające
             wyżej wymienione kryteria, a w szczególności kobiety zamieszkujące
             obszary wiejskie na terenie województwa świętokrzyskiego oraz posiadające
             orzeczenie o stopniu niepełnosprawności.</p>
-        </div>
+        </div> */}
         <div>
-          <p className="lead fs-lg pe-lg-5 mt-10"> Rekrutacja realizowana będzie z uwzględnieniem zasady równych szans i płci oraz niedyskryminacji, w tym dostępności dla osób z niepełnosprawnościami. Przy rekrutacji stosowane będą także zasady zrównoważonego rozwoju.</p>
+          <p className="lead fs-lg pe-lg-5 mt-10"> Rekrutacja realizowana będzie z uwzględnieniem zasady równych szans i płci oraz
+            niedyskryminacji, w tym dostępności dla osób z niepełnosprawnościami. Przy
+            rekrutacji stosowane będą także zasady zrównoważonego rozwoju.</p>
         </div>
 
       </div>
@@ -120,8 +141,7 @@ export default async function Process7() {
                       </span>
                     </div>
                     <div>
-                      <h4 className="mb-1 text-start">Wybierz z Zakładu Ubezpieczeń Społecznych lub Powiatowego Urzędu Pracy
-                        wymagane zaświadczenie</h4>
+                      <h4 className="mb-1 text-start">Zgromadź wymagane załączniki</h4>
                       <p className="mb-0"></p>
                     </div>
                   </div>
@@ -141,7 +161,9 @@ export default async function Process7() {
                       </span>
                     </div>
                     <div>
-                      <h4 className="mb-1 text-start">Zgromadź pozostałe wymagane załączniki</h4>
+                      <h4 className="mb-1 text-start">Złóż komplet dokumentów osobiście lub za pośrednictwem osoby trzeciej do Biura
+                        projektu bądź prześlij je e-mailem/pocztą tradycyjną/kurierem na adres Biura
+                        projektu/email (patrz zakładka <a href="/kontakt">„Kontakt”</a> )</h4>
                       <p className="mb-0"></p>
                     </div>
                   </div>
@@ -161,21 +183,20 @@ export default async function Process7() {
                       </span>
                     </div>
                     <div>
-                      <h4 className="mb-1 text-start">Złóż komplet dokumentów osobiście lub za pośrednictwem osoby trzeciej do Biura
-                        projektu bądź prześlij je e-mailem/pocztą tradycyjną/kurierem na adres Biura
-                        projektu/email (patrz zakładka <a href="/kontakt">„Kontakt”</a> )</h4>
+                      <h4 className="mb-1 text-start">Skontaktujemy się z Tobą telefonicznie lub mailowo, żeby poinformować o
+                        zakwalifikowaniu do projektu.</h4>
                       <p className="mb-0"></p>
                     </div>
                   </div>
                 </div>
               </div>
-              <div className="text-center mt-4">
+              {/* <div className="text-center mt-4">
                 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="currentColor" className="bi bi-arrow-down" viewBox="0 0 16 16">
                   <path fillRule="evenodd" d="M8 1a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L7.5 13.293V1.5A.5.5 0 0 1 8 1" />
                 </svg>
               </div>
-              <div className="shadow-lg mt-10 mb-10">
-                <div className="card-body p-6">
+              <div className="shadow-lg mt-10 mb-10"> */}
+              {/* <div className="card-body p-6">
                   <div className="d-flex flex-row">
                     <div>
                       <span className="icon btn btn-circle btn-lg btn-soft-primary pe-none me-4">
@@ -188,8 +209,8 @@ export default async function Process7() {
                       <p className="mb-0"></p>
                     </div>
                   </div>
-                </div>
-              </div>
+                </div> */}
+              {/* </div> */}
               {/* Reszta kroków */}
             </div>
           </div>
@@ -207,7 +228,7 @@ export default async function Process7() {
       <div className="container pt-10 pt-md-10 pb-13 pb-md-15">
         <div className="row mb-5">
           <div className="col-md-10 col-xl-8 col-xxl-7 mx-auto text-center">
-            <h2 className="display-4 mb-10 px-lg-14">Dokumenty do pobrania</h2>
+            <h2 className="display-4 mb-10 px-lg-14">DOKUMENTY REKRUTACYJNE:</h2>
             <div className="d-flex flex-column align-items-start">
               <p>
                 <span className="icon btn btn-circle btn-lg btn-soft-primary pe-none me-4">

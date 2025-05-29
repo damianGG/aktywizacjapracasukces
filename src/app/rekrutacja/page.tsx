@@ -1,8 +1,6 @@
-
 import Process7 from "@/components/blocks/process/Process7";
 import flagaUe from '@/assets/img/flaga-ue-tlo.png'
-
-
+import flagaUex from '../../../public/img/flaga-ue-tlo.png'
 
 export default function News() {
     return (
@@ -12,7 +10,8 @@ export default function News() {
                 style={{
                     position: 'relative',
                     backgroundPosition: 'right',
-                    backgroundImage: flagaUe,
+                    backgroundImage: "url('/img/flaga-ue-tlo.png')",
+                    // backgroundImage: flagaUex,
                     backgroundSize: 'cover',
                     backgroundRepeat: 'no-repeat'
                 }}
@@ -46,4 +45,3 @@ export default function News() {
         </>
     );
 };
-

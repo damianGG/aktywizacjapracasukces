@@ -24,7 +24,7 @@ export const processList1 = [
   {
     no: "2",
     title: "mieszkające na obszarze woj. dolnośląskiego.",
-    className: "me-lg-6 mt-6",
+    className: "me-lg-6",
     shadow: true,
     subtitle: ""
   }

@@ -1,6 +1,6 @@
 
 import Process7 from "@/components/blocks/process/Process7";
-import flagaUe from '@/assets/img/flaga-ue-tlo.png.png'
+import flagaUe from '@/assets/img/flaga-ue-tlo.png'
 
 
 

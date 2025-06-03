@@ -1,7 +1,6 @@
-import About6 from "@/components/blocks/about/About6Project";
-import About6v2 from "@/components/blocks/about/About6v2";
-import About6v3 from "@/components/blocks/about/About6v3";
+
 import Image from "next/image";
+
 
 export default function News() {
     return (
@@ -11,7 +10,7 @@ export default function News() {
                 style={{
                     position: 'relative',
                     backgroundPosition: 'right',
-                    backgroundImage: 'url(/_next/static/media/flaga-ue-tlo.a9057970.png)',
+                    backgroundImage: "url('/img/flaga-ue-tlo.png')",
                     backgroundSize: 'cover',
                     backgroundRepeat: 'no-repeat'
                 }}
@@ -62,8 +61,8 @@ export default function News() {
                         które zamieszkują w rozumieniu przepisów Kodeksu Cywilnego na obszarze woj.
                         dolnośląskiego oraz są zatrudnione na umowach krótkoterminowych, umowach
                         cywilno-prawnych lub wpisują się w definicję os. ubogich pracujących poprzez
-                        działania realizowane w ramach aktywizacji zaw., w tym szkolenia, w okresie
-                        realizacji proj. tj. od 1.01.2025 r. do 30.04.2026 r.
+                        działania realizowane w ramach aktywizacji zawodowej, w tym szkolenia, w okresie
+                        realizacji  tj. od 1.01.2025 r. do 30.04.2026 r.
                         <br />
                         <br />
                     </p>
@@ -116,7 +115,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/photos/photo-1.jpg"
+                                        src="/img/doradztwo_zawodowe.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -173,7 +172,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/photos/shutterstock_2429463807.jpg"
+                                        src="/img/posrednictwo_pracy.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -232,7 +231,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/photos/shutterstock_2489860569.jpg"
+                                        src="/img/podwyzszanie_kompoetencji.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -318,7 +317,7 @@ export default function News() {
                             <div>
                                 <figure className="rounded shadow">
                                     <Image
-                                        src="/img/photos/intreview.jpg"
+                                        src="/img/doswiadczenie_zawodwoe.jpg"
                                         width={600}
                                         height={1000}
                                         alt="hero"
@@ -338,7 +337,7 @@ export default function News() {
                         <p className="lead fs-lg">
                             Nabywanie lub uzupełnianie doświadczenia zawodowego oraz
                             praktycznych umiejętności w  zakresie wykonywania danego zawodu
-                            poprzez staże.
+                            poprzez staże
                         </p>
 
                         <div className="row gy-3 gx-xl-8">

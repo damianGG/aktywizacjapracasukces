@@ -14,7 +14,7 @@ export default function Kontakt() {
                 style={{
                     position: 'relative',
                     backgroundPosition: 'right',
-                    backgroundImage: 'url(/_next/static/media/flaga-ue-tlo.a9057970.png)',
+                    backgroundImage: "url('/img/flaga-ue-tlo.png')",
                     backgroundSize: 'cover',
                     backgroundRepeat: 'no-repeat'
                 }}

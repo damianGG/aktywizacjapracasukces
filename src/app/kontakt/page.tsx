@@ -53,8 +53,8 @@ export default function Kontakt() {
                         <h1>Biuro Projektu</h1>
                         <p><strong>Adres:</strong> ul. Muchoborska 14 lok. 201A, II piętro, budynek biurowy A, 54-424 Wrocław</p>
                         <p>Biuro projektu czynne jest od poniedziałku do piątku w godzinach 8:00 - 16:00 (istnieje możliwość umówienia się na inne godziny spotkania)</p>
-                        <p><strong>Tel:</strong> +48 887 788 062</p>
-                        <p><strong>E-mail:</strong> <a href="mailto:aktywizacja@crse.org.pl" className="link-primary" target="_blank">aktywizacja@crse.org.pl</a> </p>
+                        <p><strong>Tel:</strong> +48 887 077 080</p>
+                        <p><strong>E-mail:</strong> <a href="mailto:integracjaneet@crse.org.pl" className="link-primary" target="_blank">integracjaneet@crse.org.pl</a> </p>
                     </div>
                     <iframe
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1050.5386960086703!2d16.97022221943115!3d51.10929445200304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470fc1e8b460ed3f%3A0x2329a15fd13aacc0!2sMuchoborska%2014%2C%2054-424%20Wroc%C5%82aw!5e1!3m2!1spl!2spl!4v1748475462085!5m2!1spl!2spl"

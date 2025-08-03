@@ -32,7 +32,7 @@ export default function Footer2() {
                 <div className="widget">
                   <p className="widget-title fs-15 fw-bold"><i className="uil uil-phone-alt me-2 fs-25"></i>Telefon</p>
                   <p>
-                    +48 887 788 062 <br />
+                    +48 887 077 080<br />
                   </p>
                 </div>
               </div>
@@ -41,8 +41,8 @@ export default function Footer2() {
                 <div className="widget">
                   <p className="widget-title fs-15 fw-bold"><i className="uil uil-envelope fs-25 me-2 "></i> e-mail</p>
 
-                  <Link href="mailto:aktywizacja@crse.org.pl" className="link-primary">
-                    aktywizacja@crse.org.pl
+                  <Link href="mailto:integracjaneet@crse.org.pl" className="link-primary">
+                    integracjaneet@crse.org.pl
                   </Link>
                   <br className="d-none d-md-block" />
                 </div>
@@ -55,7 +55,7 @@ export default function Footer2() {
 
 
 
-                  <Link href="https://www.facebook.com/profile.php?id=61575807931828" className="link-primary" target="_blank">Aktywizacja-Praca-Sukces</Link>
+                  <Link href="https://www.facebook.com/profile.php?id=61575901296042" className="link-primary" target="_blank">Dolnośląskie Centrum Integracji NEET</Link>
 
                 </div>
               </div>

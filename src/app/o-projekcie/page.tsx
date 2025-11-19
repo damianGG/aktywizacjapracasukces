@@ -282,21 +282,21 @@ export default function News() {
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
                                         Uczestnikom/czkom zatrudnionym, wykonującym pracę zarobkową lub
-                                        prowadzącym działalność gospodarczą, przysługuje stypendium w
-                                        wysokości 20% zasiłku, o którym mowa w art. 72 ust. 1 pkt 1 Ustawy o
-                                        promocji zatrudnienia i instytucjach rynku pracy, niezależnie od wymiaru
-                                        godzin szkolenia, do dnia zakończenia szkolenia.
+                                        prowadzącym działalność gospodarczą, przysługuje stypendium w wysokości
+                                        20% zasiłku, o którym mowa w art. 224 ustawy o rynku pracy i służbach
+                                        zatrudnienia, zależnie od wymiaru godzin/dni szkolenia, do dnia
+                                        zakończenia szkolenia.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
                                         W przypadku Uczestników/czek pracujących, którzy/które utracili/ły
                                         zatrudnienie w trakcie udziału w projekcie wysokość stypendium wynosi
-                                        miesięcznie 120% zasiłku, o którym mowa w art. 72 ust.1 pkt 1 Ustawy o
-                                        promocji zatrudnienia i instytucjach rynku pracy, jeżeli miesięczny wymiar
-                                        godzin szkolenia wynosi co najmniej 150 godzin; w przypadku niższego
-                                        miesięcznego wymiaru godzin szkolenia wysokość stypendium ustala się
-                                        proporcjonalnie, z tym że stypendium nie może być niższe niż 20% zasiłku,
-                                        o którym mowa w art. 72 ust. 1 pkt 1.
+                                        miesięcznie 120% zasiłku, o którym mowa w art. 224 ustawy o rynku pracy
+                                        i służbach zatrudnienia, jeżeli miesięczny wymiar godzin szkolenia
+                                        wynosi co najmniej 150 godzin; w przypadku niższego miesięcznego wymiaru
+                                        godzin szkolenia wysokość stypendium ustala się proporcjonalnie, z tym
+                                        że stypendium nie może być niższe niż 20% zasiłku, o którym mowa w art.
+                                        224
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
@@ -366,14 +366,13 @@ export default function News() {
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
                                         Uczestnikom/czkom projektu w ramach stażu zostaną zapewnione badania
-                                        lekarskie, polisa ubezpieczeniowa NNW oraz stypendium stażowe, którego
-                                        wysokość miesięcznie wyniesie 120% zasiłku dla bezrobotnych, zgodnie
-                                        z obowiązującymi, w roku złożenia przez beneficjenta wniosku
-                                        o dofinansowanie w odpowiedzi na ogłoszony konkurs stawkami w tym
-                                        zakresie (psz.praca.gov.pl), jeżeli liczba godzin stażu w miesiącu
-                                        kalendarzowym wyniesie nie mniej niż 160 godzin miesięcznie. W
-                                        przypadku niższego miesięcznego wymiaru godzin, wysokość stypendium
-                                        ustala się proporcjonalnie.
+                                        lekarskie, polisa ubezpieczeniowa NNW oraz stypendium stażowe w
+                                        wysokości 160% wartości zasiłku, o którym mowa w art. 224 ustawy o rynku
+                                        pracy i służbach zatrudnienia, zgodnie z obowiązującymi stawkami
+                                        (psz.praca.gov.pl), jeżeli liczba godzin stażu w miesiącu kalendarzowym
+                                        wyniesie nie mniej niż 160 godzin miesięcznie. W przypadku niższego
+                                        miesięcznego wymiaru godzin, wysokość stypendium ustala się
+                                        proporcjonalnie.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />

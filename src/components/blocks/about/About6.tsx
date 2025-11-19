@@ -17,7 +17,7 @@ export default function About6() {
           <h2 className="display-4 mb-3 text-center mb-10">Zapraszamy do projektu <br></br> „Aktywizacja - Praca - Sukces!”</h2>
           <div className="col-lg-12">
             <p className="lead fs-lg">
-              Do udziału w projekcie kwalifikują się osoby:
+              Do udziału w projekcie kwalifikują się osoby :
             </p>
             <div className="row gy-3 ">
               <div className="col-xl-12">
@@ -84,10 +84,10 @@ export default function About6() {
             <div className="col-xl-6">
               <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
 
-                <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe dla osób zatrudnionych śr. 149,19 zł w zależności od
+                <li className="mt-3"><i className="uil uil-check"></i>stypendium szkoleniowe dla osób zatrudnionych śr. 172.20 zł w zależności od
                   długości szkolenia oraz dla osób, które utraciły zatrudnienie w trakcie projektu
-                  śr. 1074,18 zł w zależności od długości szkolenia,</li>
-                <li className="mt-3"><i className="uil uil-check"></i>stypendium stażowe 1790,30 zł miesięcznie,</li>
+                  śr. 1239,78 zł w zależności od długości szkolenia,</li>
+                <li className="mt-3"><i className="uil uil-check"></i>stypendium stażowe 2755,10 zł miesięcznie,</li>
                 <li className="mt-3"><i className="uil uil-check"></i>zwrot kosztów dojazdu na szkolenia i staże dla części uczestników,</li>
                 <li className="mt-3"><i className="uil uil-check"></i>zwrot kosztów opieki nad dzieckiem/osobą zależną dla części uczestników
                   szkoleń.</li>

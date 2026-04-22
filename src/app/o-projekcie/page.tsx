@@ -62,7 +62,7 @@ export default function News() {
                         dolnośląskiego oraz są zatrudnione na umowach krótkoterminowych, umowach
                         cywilno-prawnych lub wpisują się w definicję os. ubogich pracujących poprzez
                         działania realizowane w ramach aktywizacji zawodowej, w tym szkolenia, w okresie
-                        realizacji  tj. od 1.01.2025 r. do 30.04.2026 r.
+                        realizacji  tj. od 1.01.2025 r. do 31.07.2026 r.
                         <br />
                         <br />
                     </p>
@@ -283,20 +283,22 @@ export default function News() {
                                         <i className="uil uil-check" />
                                         Uczestnikom/czkom zatrudnionym, wykonującym pracę zarobkową lub
                                         prowadzącym działalność gospodarczą, przysługuje stypendium w wysokości
-                                        20% zasiłku, o którym mowa w art. 224 ustawy o rynku pracy i służbach
-                                        zatrudnienia, zależnie od wymiaru godzin/dni szkolenia, do dnia
+                                        20% zasiłku, o którym mowa w art. 72 ust.1 pkt 1 Ustawy o promocji zatrudnienia
+                                        i instytucjach rynku pracy,
+                                        niezależnie od wymiaru godzin szkolenia, do dnia
                                         zakończenia szkolenia.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
                                         W przypadku Uczestników/czek pracujących, którzy/które utracili/ły
-                                        zatrudnienie w trakcie udziału w projekcie wysokość stypendium wynosi
-                                        miesięcznie 120% zasiłku, o którym mowa w art. 224 ustawy o rynku pracy
+                                        zatrudnienia w trakcie udziału w projekcie wysokość stypendium wynosi
+                                        miesięcznie 120% zasiłku, o którym mowa w art. 72 ust.1 pkt 1 Ustawy o promocji
+                                        zatrudnienia i instytucjach rynku pracy, jeżeli miesięczny wymiar godzin szkolenia
                                         i służbach zatrudnienia, jeżeli miesięczny wymiar godzin szkolenia
                                         wynosi co najmniej 150 godzin; w przypadku niższego miesięcznego wymiaru
                                         godzin szkolenia wysokość stypendium ustala się proporcjonalnie, z tym
                                         że stypendium nie może być niższe niż 20% zasiłku, o którym mowa w art.
-                                        224
+                                        72 ust.1 pkt 1.
                                     </li>
                                     <li className="mt-3">
                                         <i className="uil uil-check" />
@@ -345,7 +347,7 @@ export default function News() {
                                 <ul className="icon-list bullet-bg bullet-soft-primary mb-0">
                                     <li>
                                         <i className="uil uil-check" />
-                                        Wsparciem zostanie objętych 18 Uczestników/czek projektu i będzie to
+                                        Wsparciem zostanie objętych 14 Uczestników/czek projektu i będzie to
                                         wynikało z IPD (nie każdy/a Uczestnik/czka będzie wymagał/a tego typu
                                         działania); staż realizowany będzie na stanowisku związanym z tematyką
                                         odbytego przez Uczestnika/czkę szkolenia.

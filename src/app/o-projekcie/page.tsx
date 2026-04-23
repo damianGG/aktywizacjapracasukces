@@ -65,6 +65,7 @@ export default function News() {
                         realizacji  tj. od 1.01.2025 r. do 31.07.2026 r.
                         <br />
                         <br />
+                        <br />
                     </p>
                     <p className="mb-3 fw-bold lead fs-lg">
                         W ramach wyżej wymienionej grupy docelowej: <br />

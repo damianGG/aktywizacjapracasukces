@@ -109,7 +109,7 @@ export default function About6() {
                   szkoleń.</li>
               </ul>
             </div>
-            <p className="text-center fs-20 mt-15">Okres realizacji projektu: 01.03.2025 r. - 31.12.2026 r.</p>
+            <p className="text-center fs-20 mt-15">Okres realizacji projektu: 01.03.2025 r. - 31.07.2026 r.</p>
 
           </div>
 

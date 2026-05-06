@@ -66,7 +66,7 @@ export default function News() {
 
                         (wsk. szczeg. str. 20-21 Regul. wyboru proj.), które zamieszkują w rozumieniu
                         przepisów KC na obszarze woj. dolnośląskiego w okresie realizacji projektu tj.
-                        1.03.2025-31.12.2026.
+                        1.03.2025-31.07.2026.
                         <br />
                         <br />
                     </p>
@@ -569,4 +569,3 @@ export default function News() {
         </>
     );
 };
-

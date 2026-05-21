@@ -295,7 +295,6 @@ export default function News() {
                                         zatrudnienia w trakcie udziału w projekcie wysokość stypendium wynosi
                                         miesięcznie 120% zasiłku, o którym mowa w art. 72 ust.1 pkt 1 Ustawy o promocji
                                         zatrudnienia i instytucjach rynku pracy, jeżeli miesięczny wymiar godzin szkolenia
-                                        i służbach zatrudnienia, jeżeli miesięczny wymiar godzin szkolenia
                                         wynosi co najmniej 150 godzin; w przypadku niższego miesięcznego wymiaru
                                         godzin szkolenia wysokość stypendium ustala się proporcjonalnie, z tym
                                         że stypendium nie może być niższe niż 20% zasiłku, o którym mowa w art.

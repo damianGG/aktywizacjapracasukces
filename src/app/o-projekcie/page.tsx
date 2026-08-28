@@ -57,16 +57,8 @@ export default function News() {
                     <br />
 
                     <p className="mb-3 fw-bold lead fs-lg">
-                        Głównym celem projektu jest wsparcie aktywnego włączenia społecznego w celu
-                        promowania równości szans, niedyskryminacji i aktywnego uczestnictwa oraz
-                        zwiększenie zdolności do zatrudnienia w szczególności grup w niekorzystnej sytuacji
-                        - 100 osób młodych (60 kobiet, 40 mężczyzn) w wieku 18-29 lat, pozostających poza
-                        zatrudnieniem, edukacją i szkoleniem (osoby z kategorii NEET), jednocześnie
-                        wpisujących się w katalog osób wskazany w podrozdziale 4.2 pkt.1) Wytycznych
-
-                        (wsk. szczeg. str. 20-21 Regul. wyboru proj.), które zamieszkują w rozumieniu
-                        przepisów KC na obszarze woj. dolnośląskiego w okresie realizacji projektu tj.
-                        1.03.2025-31.12.2026.
+                        Głównym celem projektu jest poprawa sytuacji na rynku pracy 170 os.
+                        (102K, 68M). Okres realizacji projektu: do 31.12.2026 r.
                         <br />
                         <br />
                     </p>
@@ -74,46 +66,35 @@ export default function News() {
                         W ramach wyżej wymienionej grupy docelowej: <br />
                     </p>
                     <ul>
-                        <li>co najmniej 60 uczestników (36 kobiet, 24 mężczyzn) będzie
-                            zamieszkiwało w rozumieniu Kodeksu Cywilnego miasta średnie tracące
-                            funkcje społeczno-gospodarcze i/lub obszary zagrożone trwałą
-                            marginalizacją i/lub na obszarze wiejskim wg klasyfikacji DEGURBA w
+                        <li>co najmniej 70% uczestników (co najmniej 119 osób) będzie zamieszkiwało
+                            w rozumieniu Kodeksu Cywilnego miasta średnie tracące funkcje
+                            społeczno-gospodarcze lub obszary zagrożone trwałą marginalizacją w
                             województwie dolnośląskim,
                         </li>
-                        <li>40 uczestników (24 kobiety, 16 mężczyzn) będzie stanowiło osoby
-                            bezrobotne, w tym długotrwale bezrobotne,
+                        <li>minimum 40% całości grupy objętej wsparciem (minimum 68 osób) będzie
+                            posiadało niskie kwalifikacje (osoby z wykształceniem do poziomu ISCED 3
+                            włącznie),
                         </li>
-                        <li>60 uczestników (36 kobiet, 24 mężczyzn) będzie stanowiło osoby bierne
-                            zawodowe,
+                        <li>co najmniej 17 osób będą stanowiły osoby z niepełnosprawnościami (11
+                            kobiet, 7 mężczyzn),
                         </li>
-                        <li>co najmniej 12 uczestników (7 kobiet, 5 mężczyzn) będzie osobami
-                            długotrwale bezrobotnymi,
-                        </li>
-                        <li>co najmniej 10 osób będą stanowiły osoby z niepełnosprawnościami (6
-                            kobiet, 4 mężczyzn),
+                        <li>minimum 57 osób będą stanowiły osoby między 18 a 29 r.ż. (34 kobiety, 23
+                            mężczyzn) oraz 26 osób powyżej 55 r.ż. (15 kobiet, 11 mężczyzn).
                         </li>
                     </ul>
                     <p>Główne rezultaty, które zostaną osiągnięte dzięki realizacji projektu:</p>
                     <ul>
-                        <li>90 osób (54 kobiety, 36 mężczyzn) uzyska kwalifikacje po opuszczeniu
+                        <li>52 osoby (32 kobiety, 20 mężczyzn) podejmą kształcenie lub szkolenie po
+                            opuszczeniu programu,
+                        </li>
+                        <li>154 osoby (93 kobiety, 61 mężczyzn) uzyskają kwalifikacje po opuszczeniu
                             programu,
                         </li>
-                        <li>40 osób (24 kobiety, 16 mężczyzn) których sytuacja społeczna uległa
-                            poprawie po opuszczeniu programu,
+                        <li>Co najmniej 20% uczestników projektu (34 osoby) w wyniku otrzymanego
+                            wsparcia będzie zatrudnionych na podstawie umowy o pracę na czas określony
+                            dłuższy niż 1 rok lub nieokreślony w wymiarze co najmniej ½ etatu.
                         </li>
-                        <li>25 osób (15 kobiet, 10 mężczyzn) będzie osobami poszukującymi pracy
-                            po opuszczeniu programu,
-                        </li>
-                        <li>40 osób (24 kobiety, 16 mężczyzn) będzie osobami pracującymi, łącznie z
-                            prowadzącymi działalność na własny rachunek, po opuszczeniu
-                            programu.
-                        </li>
-
                     </ul>
-                    <p>Projekt zakłada, że co najmniej 20% uczestników projektu tj. co najmniej 20 os. (12
-                        kobiet, 8 mężczyzn) w wyniku otrzymanego wsparcia podejmie zatrudnienie na
-                        podstawie umowy o pracę w wymiarze co najmniej ½etatu zawartej na okres co
-                        najmniej 6 miesięcy.</p>
                     <p> Wartość projektu: 2 038 647,26 zł</p>
                     <p> Wysokość wkładu Funduszy Europejskich: 1 427 053,08 zł</p>
                 </div>
@@ -569,4 +550,3 @@ export default function News() {
         </>
     );
 };
-

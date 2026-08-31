@@ -62,7 +62,7 @@ export default function News() {
                         dolnośląskiego oraz są zatrudnione na umowach krótkoterminowych, umowach
                         cywilno-prawnych lub wpisują się w definicję os. ubogich pracujących poprzez
                         działania realizowane w ramach aktywizacji zawodowej, w tym szkolenia, w okresie
-                        realizacji  tj. od 1.01.2025 r. do 31.07.2026 r.
+                        realizacji  tj. od 01.01.2025 r. do 31.12.2026 r.
                         <br />
                         <br />
                         <br />

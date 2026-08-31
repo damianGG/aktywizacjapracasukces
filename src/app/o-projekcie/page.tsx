@@ -369,7 +369,7 @@ export default function News() {
                                         <i className="uil uil-check" />
                                         Uczestnikom/czkom projektu w ramach stażu zostaną zapewnione badania
                                         lekarskie, polisa ubezpieczeniowa NNW oraz stypendium stażowe w
-                                        wysokości 160% wartości zasiłku, o którym mowa w art. 224 ustawy o rynku
+                                        wysokości 120% wartości zasiłku, o którym mowa w art. 224 ustawy o rynku
                                         pracy i służbach zatrudnienia, zgodnie z obowiązującymi stawkami
                                         (psz.praca.gov.pl), jeżeli liczba godzin stażu w miesiącu kalendarzowym
                                         wyniesie nie mniej niż 160 godzin miesięcznie. W przypadku niższego
@@ -396,4 +396,3 @@ export default function News() {
         </>
     );
 };
-

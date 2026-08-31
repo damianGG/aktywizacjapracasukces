@@ -40,7 +40,7 @@ export default function Hero4() {
 
           <div className="col-lg-5 mt-lg-n10 text-center text-lg-start">
             <h1 className="display-1 mb-5 fs-40" style={slideInDownAnimate("600ms")}>
-              „Dolnośląskie Centrum Integracji NEET”
+              „Aktywizacja - Praca - Sukces!”
             </h1>
             <div className="d-flex justify-content-center justify-content-lg-start">
 

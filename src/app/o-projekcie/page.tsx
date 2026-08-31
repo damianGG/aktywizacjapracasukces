@@ -57,12 +57,12 @@ export default function News() {
                     <br />
 
                     <p className="mb-3 fw-bold lead fs-lg">
-                        Głównym celem projektu jest poprawa sytuacji na rynku pracy 180 os. (108K,72M),
+                        Głównym celem projektu jest poprawa sytuacji na rynku pracy 170 os. (102K, 68M).
                         które zamieszkują w rozumieniu przepisów Kodeksu Cywilnego na obszarze woj.
                         dolnośląskiego oraz są zatrudnione na umowach krótkoterminowych, umowach
                         cywilno-prawnych lub wpisują się w definicję os. ubogich pracujących poprzez
                         działania realizowane w ramach aktywizacji zawodowej, w tym szkolenia, w okresie
-                        realizacji  tj. od 1.01.2025 r. do 31.07.2026 r.
+                        realizacji  tj. do 31.12.2026 r.
                         <br />
                         <br />
                         <br />
@@ -71,33 +71,33 @@ export default function News() {
                         W ramach wyżej wymienionej grupy docelowej: <br />
                     </p>
                     <ul>
-                        <li>co najmniej 70% uczestników (co najmniej 126 osób) będzie
+                        <li>co najmniej 70% uczestników (co najmniej 119 osób) będzie
                             zamieszkiwało w rozumieniu Kodeksu Cywilnego miasta średnie tracące
                             funkcje społeczno-gospodarcze lub obszary zagrożone trwałą
                             marginalizacją w województwie dolnośląskim,
                         </li>
-                        <li>minimum 40% całości grupy objętej wsparciem (minimum 72 osoby)
+                        <li>minimum 40% całości grupy objętej wsparciem (minimum 68 osób)
                             będzie posiadało niskie kwalifikacje (osoby z wykształceniem do poziomu
                             ISCED 3 włącznie),
                         </li>
-                        <li>co najmniej 18 osób będą stanowiły osoby z niepełnosprawnościami (11
+                        <li>co najmniej 17 osób będą stanowiły osoby z niepełnosprawnościami (11
                             kobiet, 7 mężczyzn),
                         </li>
-                        <li>minimum 60 osób będą stanowiły osoby między 18 a 29 r.ż. (36 kobiet, 24
-                            mężczyzn) oraz 27 osób powyżej 55 r.ż. (16 kobiet, 11 mężczyzn),
+                        <li>minimum 57 osób będą stanowiły osoby między 18 a 29 r.ż. (34 kobiety, 23
+                            mężczyzn) oraz 26 osób powyżej 55 r.ż. (15 kobiet, 11 mężczyzn),
                         </li>
                         <li>5 osób w wieku poniżej 18 roku życia (3 kobiety, 2 mężczyzn).
                         </li>
                     </ul>
                     <p>Główne rezultaty, które zostaną osiągnięte dzięki realizacji projektu:</p>
                     <ul>
-                        <li>55 osób (33 kobiety, 22 mężczyzn) podejmie kształcenie lub szkolenie po
+                        <li>52 osoby (32 kobiety, 20 mężczyzn) podejmą kształcenie lub szkolenie po
                             opuszczeniu programu,
                         </li>
-                        <li>163 osób (98 kobiet, 65 mężczyzn) uzyska kwalifikacje po opuszczeniu
+                        <li>154 osoby (93 kobiety, 61 mężczyzn) uzyskają kwalifikacje po opuszczeniu
                             programu,
                         </li>
-                        <li>Co najmniej 20% uczestników projektu (36 osób) w wyniku otrzymanego
+                        <li>Co najmniej 20% uczestników projektu (34 osoby) w wyniku otrzymanego
                             wsparcia będzie zatrudnionych na podstawie umowy o pracę na czas
                             określony dłuższy niż 1 rok lub nieokreślony w wymiarze co najmniej ½
                             etatu.
